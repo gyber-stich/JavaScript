@@ -12,6 +12,7 @@ var calculateDistance = function(time, speedOfFirstCyclist, speedOfSecondCyclist
     //    велосипедист, умножив скорость на время
     var distanceOfFirstCyclist = speedOfFirstCyclist * time;
     
+	alert('Расстояние между первыми поселками: ' + distanceOfFirstCyclist + measureUnit);
     // 2. Найти расстояние, которое проехал второй
     //    велосипедист
     var distanceOfSecondCyclist = speedOfSecondCyclist * time;
