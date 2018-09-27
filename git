@@ -1,0 +1,136 @@
+[33mcommit c54a91ee49e78f96f1abf7b3bebfe9fb980f717d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 9eace32 ffef365
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 18:43:19 2018 +0300
+
+    test merge 4 - work?
+
+[33mcommit ffef3653b5eeb055f1e225f79684b3f05e9867b6[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 18:32:09 2018 +0300
+
+    test merge 3
+
+[33mcommit 9eace32fd95d260a6f09990c9a2e359918bc1aca[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 18:22:33 2018 +0300
+
+    mergettool3
+    
+    test 3
+
+[33mcommit 71e066d8fef62cb929a5b480d29c5a32005e6253[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 18:20:51 2018 +0300
+
+    Revert "Merge branch 'lessons1_branch_2'"
+    
+    This reverts commit ac77a942d72cf6bb9f0200d87ade59858f754566, reversing
+    changes made to c5011317213309e52ed0f10a3cfd162e6c5e122f.
+
+[33mcommit ac77a942d72cf6bb9f0200d87ade59858f754566[m
+Merge: c501131 787cc84
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 18:19:58 2018 +0300
+
+    Merge branch 'lessons1_branch_2'
+    
+    govno
+
+[33mcommit c5011317213309e52ed0f10a3cfd162e6c5e122f[m
+Merge: f5bb4b1 b10316b
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 17:54:34 2018 +0300
+
+    Merge branch 'master' of https://github.com/gyber-stich/JavaScript
+
+[33mcommit f5bb4b1488a7cec3c4654bd9d4da7c196dcded72[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 14:55:55 2018 +0300
+
+    test alert
+
+[33mcommit 787cc8428827b07fa140ebfbd6af2992e417b71a[m[33m ([m[1;31morigin/lessons1_branch_2[m[33m)[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 15:50:31 2018 +0300
+
+    test alert utf8
+
+[33mcommit b10316b9527965b9e0589d020f7ae5df1a11bd45[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Sat Sep 22 14:55:55 2018 +0300
+
+    test alert
+
+[33mcommit dbaf5890dc3245c693d6843ea4d4128e8aee5e5d[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 03:33:24 2018 +0300
+
+    Araxis_test
+
+[33mcommit 5eebebc1d97c5d6b7b2d217920ee024d8c7b9f3a[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 03:27:25 2018 +0300
+
+    Araxis_test
+
+[33mcommit 0d0d00c4d1455e853a0956bdaf62732a4259e4e5[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 03:23:06 2018 +0300
+
+    Araxis_test
+
+[33mcommit d4f568fc63d9a754c5c28fa695b19d1f043d28f6[m
+Merge: 42aa63a b74ce02
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 03:00:43 2018 +0300
+
+    Merged Lessons_1.1.1  lessons1_branch_2 to master
+
+[33mcommit 42aa63ab6224d8a201247b988462206d956831d4[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 01:54:33 2018 +0300
+
+    Lessons_1 master _
+
+[33mcommit b74ce02808f53ec35cd6cad3328ce667ed052ff0[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 01:50:03 2018 +0300
+
+    Lessons_1 lessons1_branch_2 _
+
+[33mcommit be7f8430245374abcba3311ede7a117e9e392966[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 01:43:53 2018 +0300
+
+    Lessons_1.1.1 lessons1_branch_2
+
+[33mcommit c1255aa8a1493dd0c711816678d84b7ba893d068[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Thu Sep 20 01:40:33 2018 +0300
+
+    Lessons_1.1.1 lessons1_branch_2
+
+[33mcommit 3672c7a356d0831f36d99f9305ea949fcb18cced[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Wed Sep 19 23:40:13 2018 +0300
+
+    Lessons_1.1.1
+
+[33mcommit 1af9acde19ea0c2ba78f3ec3e5c7b2369fe4347a[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Wed Sep 19 23:19:00 2018 +0300
+
+    Lessons_1.1
+
+[33mcommit 78454bd9f7c413c0914c15012e19e2f0ce5c66a1[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Wed Sep 19 22:06:21 2018 +0300
+
+    Lessons_1
+
+[33mcommit c1861f2a38a373c0e0d98489b1c364b073c591d6[m
+Author: gyber-stich <mlk_treid@ukr.net>
+Date:   Wed Sep 19 16:37:27 2018 +0300
+
+    create directory
